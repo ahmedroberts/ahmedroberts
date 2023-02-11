@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ahmedroberts! - Business Intelligence Analyst
-- 👀 I’m interested in software development, Azure DevOps, and .NET.
-- 🌱 I’m currently learning Azure, Power Platform, and Data Engineering.
-- 💞️ I’m looking to collaborate on automation projects.
+- 👋 Hi, I’m @ahmedroberts! - Business Intelligence Analyst, Data Engineer, and Full Stack Software Developer.
+- 👀 I’m interested in Data Engineering, backend software development, .Net, and Next.JS.
+- 🌱 I enjoy databases and OOP.
+- 💞️ I have been recently coding JavaScript, Python, C#, and Java.
 - 📫 How to reach me @ahmedroberts on GitHub.
 
 <!---
