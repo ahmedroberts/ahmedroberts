@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahmedroberts! - Business Intelligence Analyst, Data Engineer, and Full Stack Software Developer.
-- 👀 I’m interested in Azure Data Engineering, JavaScript, front-end & back-end software development, .Net, React, and Next.JS.
-- 🌱 I enjoy Azure SQL databases, ComosDB, cloud technologies, and OOP.
+- 👀 I’m interested in Azure Data Engineering, JavaScript, front end & back end software development, .Net, React, and Next.JS.
+- 🌱 I enjoy Azure SQL databases, Azure ComosDB, cloud technologies, and OOP.
 - 💞️ I have been recently coding JavaScript, Python, C#, PowerShell, HTML, and CSS.
 - 📫 How to reach me @ahmedroberts on GitHub.
 
